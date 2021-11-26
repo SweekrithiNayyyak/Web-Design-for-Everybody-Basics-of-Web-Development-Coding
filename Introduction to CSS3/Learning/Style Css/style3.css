@@ -1,0 +1,47 @@
+h1{
+    background:#c17a7a;
+    font: size 150%;
+    text-align:center;
+    color:#ffffff;
+}
+header{
+    background:#e4cece;
+    text-align:center;
+    padding: 15px;
+}
+body{
+    margin: 4%;
+    background:#8d771e;
+}
+nav{
+    font-variant: small-caps;
+    font-size:150%;
+    font-family: arial,serif;
+    color:#ffffff;
+}
+h2{
+    color:pink;
+    background-color: rgb(179, 55, 127);
+}
+details{
+    font-style: italic;
+}
+summary{
+    font-style: normal;
+}
+
+footer{
+    
+    
+    clear: both;
+}
+section{
+   
+    width: 20%;
+    display: inline-block;
+   float: left;
+   margin-right: 10px;
+}
+img{
+    width: 75px;
+}

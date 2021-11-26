@@ -1,0 +1,13 @@
+span{
+    background:red;
+    font-size: 150%;
+    
+}
+div{
+    background: yellow;
+    display: inline-block;
+}
+p{
+    background: pink;
+    clear: left;
+}
